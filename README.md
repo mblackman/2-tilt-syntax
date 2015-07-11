@@ -1,4 +1,4 @@
-# mblackman-syntax theme
+# 2-tilt-syntax theme
 
 This is the matching theme to my ui theme. The focus of these themes is to focus the theme on
 a 4 shade gradient between 2 colors. I like a simple and customizable theme to my IDEs. So
