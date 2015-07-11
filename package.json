@@ -1,0 +1,15 @@
+{
+  "name": "2-tilt-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "An easily themeable, 2 color syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mblackman/2-tilt-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
